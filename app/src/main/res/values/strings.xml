@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DaggerWithRoom</string>
+    <string name="no_data_found">No data found</string>
+    <string name="product_price" formatted="true">Price : ₹ %s</string>
+</resources>
